@@ -8,6 +8,6 @@ This app was built with the **MS-Graph .NET SDK** hosted on an Azure tenant and 
 
 ## How To Setup And Run
 - Clone this repo.
-- Run the following command in the project root folder > dotnet user-secrets set settings:clientSecret yft8Q~Npc5zsJaPC_j_Kbn_dMFMVc.GjZQCL~biY
+- Run the following command in the project root folder **dotnet user-secrets set settings:clientSecret yft8Q~Npc5zsJaPC_j_Kbn_dMFMVc.GjZQCL~biY**
 - Start in Visual Studio
 - Select user 3 when prompted (only user with non-empty drive as at the time of writing)
